@@ -1,6 +1,8 @@
 # PrvniProjekt.
-tohle je readme B))
+tohle je readme!!!
 
-(super epickej projekt)
+(super epickej test)
 
-DEVELOP DEVELOP DEVELOP
+DEVELOP DEVELOP
+
+test test
